@@ -1,1 +1,1 @@
-## Cpp.club & CrimeGuard
+## Cpp.club
